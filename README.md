@@ -12,7 +12,7 @@ Built an interactive and graphical game where players repeat flashing button seq
  - Simple, clean Tkinter interface
 
 
- - Here is an example of the game: 
+Here is an example of the game: 
 <img width="445" height="590" alt="image" src="https://github.com/user-attachments/assets/83c8d028-756a-4165-95cb-3e2daece6fdd" />
 
 
